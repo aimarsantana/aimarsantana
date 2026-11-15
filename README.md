@@ -42,7 +42,8 @@
 ## 📂 Featured projects
 
 - **[ClimaticMovie](https://github.com/Blackk-Whitee/ClimaticMovie)** — Java app that recommends movies based on a city's weather (TMDB + OpenWeatherMap), with a hexagonal event-driven architecture and SQLite.
-- **[Search engine from scratch](https://github.com/TheScratchers/stage_1)** — Big Data course, team of three: search engine over a book corpus implemented in Python, Java and C++ to compare performance (I built the Python part).
+- **[Search engine from scratch](https://github.com/TheScratchers/stage_1)** ([phase 2](https://github.com/TheScratchers/stage_2)) — Big Data course, team of three: search engine over a book corpus implemented in Python, Java and C++ to compare performance (I built the Python part).
+- **[Simpsons CNN](https://github.com/aa2-simpsons/simpsons-cnn)** — Simpsons character classifier using convolutional neural networks in PyTorch.
 - **Car detection with computer vision** — car detection in images and video with OpenCV.
 - **AI automations** — agents and workflows with n8n and OpenAI.
 
@@ -77,7 +78,8 @@ Lenguajes: Python, Java, C, C++, SQL, JavaScript, HTML, CSS, R · Datos y ML: Pa
 ## 📂 Proyectos destacados
 
 - **[ClimaticMovie](https://github.com/Blackk-Whitee/ClimaticMovie)** — aplicación en Java que recomienda películas según el tiempo de una ciudad (TMDB + OpenWeatherMap), con arquitectura hexagonal orientada a eventos y SQLite.
-- **[Buscador desde cero](https://github.com/TheScratchers/stage_1)** — asignatura de Big Data, equipo de tres: motor de búsqueda sobre un corpus de libros implementado en Python, Java y C++ para comparar rendimiento (yo hice la parte de Python).
+- **[Buscador desde cero](https://github.com/TheScratchers/stage_1)** ([fase 2](https://github.com/TheScratchers/stage_2)) — asignatura de Big Data, equipo de tres: motor de búsqueda sobre un corpus de libros implementado en Python, Java y C++ para comparar rendimiento (yo hice la parte de Python).
+- **[Simpsons CNN](https://github.com/aa2-simpsons/simpsons-cnn)** — clasificador de personajes de Los Simpson con redes neuronales convolucionales en PyTorch.
 - **Detección de coches con visión por computador** — detección de coches en imágenes y vídeo con OpenCV.
 - **Automatizaciones con IA** — agentes y flujos de trabajo con n8n y OpenAI.
 
